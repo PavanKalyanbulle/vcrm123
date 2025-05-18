@@ -1,0 +1,28 @@
+Traced on 2025-04-07 19:24:00
+FileAccessForInclusion - 
+C:\xampp\htdocs\vcrm\vcrm8.0\vcrm\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\vcrm\vcrm8.0\vcrm\includes\Loader.php::checkFileAccessForInclusion::65<br>
+C:\xampp\htdocs\vcrm\vcrm8.0\vcrm\includes\Loader.php::includeOnce::191<br>
+C:\xampp\htdocs\vcrm\vcrm8.0\vcrm\includes\main\WebUI.php::vimport::15<br>
+C:\xampp\htdocs\vcrm\vcrm8.0\vcrm\index.php::include_once::23<br>
+Traced on 2025-04-07 19:24:17
+FileAccessForInclusion - 
+C:\xampp\htdocs\vcrm\vcrm8.0\vcrm\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\vcrm\vcrm8.0\vcrm\includes\Loader.php::checkFileAccessForInclusion::65<br>
+C:\xampp\htdocs\vcrm\vcrm8.0\vcrm\includes\Loader.php::includeOnce::191<br>
+C:\xampp\htdocs\vcrm\vcrm8.0\vcrm\includes\main\WebUI.php::vimport::15<br>
+C:\xampp\htdocs\vcrm\vcrm8.0\vcrm\index.php::include_once::23<br>
+Traced on 2025-04-07 19:24:21
+FileAccessForInclusion - 
+C:\xampp\htdocs\vcrm\vcrm8.0\vcrm\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\vcrm\vcrm8.0\vcrm\includes\Loader.php::checkFileAccessForInclusion::65<br>
+C:\xampp\htdocs\vcrm\vcrm8.0\vcrm\includes\Loader.php::includeOnce::191<br>
+C:\xampp\htdocs\vcrm\vcrm8.0\vcrm\includes\main\WebUI.php::vimport::15<br>
+C:\xampp\htdocs\vcrm\vcrm8.0\vcrm\index.php::include_once::23<br>
+Traced on 2025-04-07 19:24:23
+FileAccessForInclusion - 
+C:\xampp\htdocs\vcrm\vcrm8.0\vcrm\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\vcrm\vcrm8.0\vcrm\includes\Loader.php::checkFileAccessForInclusion::65<br>
+C:\xampp\htdocs\vcrm\vcrm8.0\vcrm\includes\Loader.php::includeOnce::191<br>
+C:\xampp\htdocs\vcrm\vcrm8.0\vcrm\includes\main\WebUI.php::vimport::15<br>
+C:\xampp\htdocs\vcrm\vcrm8.0\vcrm\index.php::include_once::23<br>
